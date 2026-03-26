@@ -1127,7 +1127,8 @@
       "marginBottom": "Margin Bottom",
       "marginLeft": "Margin Left",
       "marginRight": "Margin Right",
-      "optionsTitle": "Crop Options"
+      "optionsTitle": "Crop Options",
+      "page": "Page"
     },
     "organizePdf": {
       "uploadLabel": "Upload PDF File",
@@ -2148,7 +2149,7 @@
     },
     "rasterizePdf": {
       "uploadLabel": "Upload PDF File",
-      "uploadDescription": "Drag and drop a PDF file to convert to images.",
+      "uploadDescription": "Drag and drop a PDF file to rasterize into images or a new PDF.",
       "optionsTitle": "Output Options",
       "dpiLabel": "Resolution (DPI)",
       "formatLabel": "Output Format",
@@ -2156,8 +2157,8 @@
       "pageRangeLabel": "Page Range (optional)",
       "pageRangeDesc": "Leave empty to convert all pages.",
       "bgColorLabel": "Background Color",
-      "convertButton": "Convert to Images",
-      "successMessage": "Images created successfully! Click download to save."
+      "convertButton": "Rasterize",
+      "successMessage": "Rasterization complete! Click download to save your file."
     },
     "emailToPdf": {
       "uploadLabel": "Upload Email File",

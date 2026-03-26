@@ -970,7 +970,8 @@
       "marginBottom": "Margin Bottom",
       "marginLeft": "Margin Left",
       "marginRight": "Margin Right",
-      "optionsTitle": "Crop Options"
+      "optionsTitle": "Crop Options",
+      "page": "Page"
     },
     "organizePdf": {
       "uploadLabel": "Télécharger un fichier PDF",
@@ -2014,7 +2015,7 @@
     },
     "rasterizePdf": {
       "uploadLabel": "Charger un fichier PDF",
-      "uploadDescription": "Glissez-déposez un fichier PDF pour le convertir en images.",
+      "uploadDescription": "Glissez-déposez un fichier PDF pour le rastériser en images ou un nouveau PDF.",
       "optionsTitle": "Options de sortie",
       "dpiLabel": "Résolution (DPI)",
       "formatLabel": "Format des images",
@@ -2022,8 +2023,8 @@
       "pageRangeLabel": "Plage de pages (optionnel)",
       "pageRangeDesc": "Laissez vide pour convertir toutes les pages.",
       "bgColorLabel": "Couleur de fond",
-      "convertButton": "Convertir en images",
-      "successMessage": "Images créées avec succès ! Cliquez sur télécharger pour enregistrer."
+      "convertButton": "Rastériser",
+      "successMessage": "Rastérisation terminée ! Cliquez sur télécharger pour enregistrer votre fichier."
     },
     "markdownToPdf": {
       "uploadLabel": "Charger un fichier Markdown",
